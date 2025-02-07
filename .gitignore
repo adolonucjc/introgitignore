@@ -1,0 +1,7 @@
+#Archivos y configuraciones que no queremos subir a Github
+
+.settings/
+.project
+.classpath
+.metadata/
+bin/
